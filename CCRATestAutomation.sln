@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCRATestAutomation", "CCRATestAutomation.csproj", "{B128CC0F-1357-4F96-8492-F46AD6B4DDFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B128CC0F-1357-4F96-8492-F46AD6B4DDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B128CC0F-1357-4F96-8492-F46AD6B4DDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B128CC0F-1357-4F96-8492-F46AD6B4DDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B128CC0F-1357-4F96-8492-F46AD6B4DDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06DC42AA-A592-4754-B3A2-EA8325FE7E20}
+	EndGlobalSection
+EndGlobal
