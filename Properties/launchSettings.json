@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CCRATestAutomation": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
